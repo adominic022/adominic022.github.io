@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Dongmin An'
-   url:           https://github.com/dksehdals216
+  url:            https://github.com/dksehdals216
 
 paginate:         5
 # paginate_path:    '/page:num'
