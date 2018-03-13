@@ -6,7 +6,6 @@ highlighter:      rouge
 title:            Mood Indigo
 tagline:          'Just Another Blog'
 description:      'I''m Dongmin An, CS undergrad at Handong Global University'
-url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
