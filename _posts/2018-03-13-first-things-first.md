@@ -12,7 +12,11 @@ Github Pages, Jekyll, Hyde, and boom. Here we are. I never realized how easy it 
 
 As someone who is an absolute rockstar in CS, with an exemplary record of destroying competitons, writing multiple industrial level bug free code, i'll be describing about collecting annoted image description corpus for generation of rich face descriptions.
 
+
+
 Just kidding.
+
+
 
 Jokes aside, this blog will be mostly about simple, plain articles from your everyday layman's perspective on computer stuff. If your looking for a tangible guide on writing an autonomous car system using the cutting edge machine learning algorithms, you're probably at the wrong place.
 
