@@ -4,10 +4,12 @@ title: About
 sidebar_link: true
 ---
 
+Hello!
+
+I'm Dongmin An, an undergrad student from South Korea.
+
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+    To be more specific, I'm still an undergraduate student at Handong Global University. I am interested in Machine Learning, Machine translation, and Programming in general. 
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
