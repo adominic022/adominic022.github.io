@@ -13,7 +13,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 owner:
-  name:           'Dongmin An'=
+  name:           'Dongmin An'
+
 
 author:
   name:           'Andrew Fong'
