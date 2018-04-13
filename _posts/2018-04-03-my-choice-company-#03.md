@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: My choice company #03
+title: Twitter #03
 excerpt_separator:  <!--more-->
 ---
 
@@ -14,6 +14,23 @@ Representative:
 직원수: 3,372 (2017) source wikipedia
 홈페이지: https://twitter.com/?lang=en
 기업 분석 선정 이유
+twitter is not top 15, but still major enough,
+not on biggest it
+not on biggest software
+but 21st on internet companies, below spotify and above airbnb
+https://www.google.com/search?q=NYSE:TWTR&tbm=fin
+
+they use cortex for ai
+https://www.meetcortex.com/
+dedicated platform specifically for social networks
+https://www.fool.com/investing/2017/05/27/twitter-turns-to-artificial-intelligence-to-build.aspx
+
+actual implementation of scalability that is commonly used as examples.
+wouldn't it be cool?At a scale of Twitter
+
+find most important, relevant data for user in so much data
+not as intrusive as fb or govmnt
+so many skills in 1 seamless
 
 기업 분석 개요
 기업이 미션과 비전: We believe in free expression and think every voice has the power to impact the world.
@@ -29,5 +46,8 @@ facebook, snapchat
 http://variety.com/2018/digital/news/twitter-mlb-2018-live-stream-free-games-2018-1202742212/
 https://www.washingtonpost.com/news/business/wp/2018/04/02/trump-keeps-up-twitter-assault-on-amazon-this-time-criticizing-its-u-s-postal-service-contract/?utm_term=.dafa81f9e29e
 https://thenextweb.com/twitter/2018/03/30/timestamps-feature-makes-twitter-news-site-always-meant/
+
+twitter racist bot
+https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
 
 
