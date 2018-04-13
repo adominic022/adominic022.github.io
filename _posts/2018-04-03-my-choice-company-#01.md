@@ -11,6 +11,9 @@ Available Roles:
 no. workers: 91~100 (approx.)
 website: https://narrativescience.com/
 
+Narrative Science is an NLG (natural language generation) for automating work, primarly through their platform Quill. Located in Chicago Illinois, this small but powerful startup of hundred employees is one of many competent startups in AI. With 68% of companies using AI in their product and enterprise, it is no surprise that technologies such as NLG become increasingly important. Narrative Science is a company that focuses on Natural Language Generation, which is to produce meaningful text from raw computer data. Things such as customer service, reports, and bussiness insights can all be generated and automated through the use of AI and NLG. Popular customers of Narrative Science include: MasterCard,  Deloitte, USAA and etc. 
+
+
 Why I chose this company:
 
 
@@ -64,5 +67,8 @@ Proven capability for critical thinking, problem solving and the patience to see
 Outstanding oral and written communication skills with both technical and non-technical audiences
 Willingness to partner with a wide variety of people from diverse backgrounds, including engineering, product and professional services team members
 
+ref:
+https://www.forbes.com/sites/gilpress/2017/01/23/top-10-hot-artificial-intelligence-ai-technologies/#2b7b4f7e1928
+https://www.crunchbase.com/organization/narrative-science#section-overview
 
 
