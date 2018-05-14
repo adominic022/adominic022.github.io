@@ -9,7 +9,6 @@ Hello!
 I'm Dongmin An, an undergrad student from South Korea.
 
 
-<p class="message">
-    To be more specific, I'm still an undergraduate student at Handong Global University. I am interested in Machine Learning, Machine translation, and Programming in general. 
-</p>
+I'm still an undergraduate student at Handong Global University, with interests in: Jazz Guitar, Machine Learning, and Programming in general. 
 
+Also guilty of being a wannabe IT aficionado, and I probably even spelled that wrong.
