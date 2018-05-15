@@ -22,6 +22,7 @@ Humor, a qaulity of being comical and provoke laughter, refering especially to l
 ## It's pretty hard
 Sarcasm is definitely on the farther end of difficulty when it comes to human expression. It's difficult for humans to understand, let alone computers. Humans are used to using tone of voice and expression, or emoticons and hashtags on social media to relay their sarcasm to their readers/listeners. Another fact that makes it difficult is the use of conversational and situation context, as well as, well, common sense and general knowledge of the world. This of course, makes teaching AI unique human linguistic traits just <em> wonderfully<em>. 
 
+Both problems are a "Classification" problem. When given a piece of text as input, we want to guess if it is of sarcastic or humorous quality. 
 ### Rule Based
 
 ### Machine Learning
@@ -32,4 +33,4 @@ https://www.researchgate.net/figure/Architecture-of-our-sarcasm-detection-approa
 https://qz.com/801813/teaching-ai-how-to-be-sarcastic-is-totally-the-easiest-thing-ever/
 https://pdfs.semanticscholar.org/f1a1/949aab6d40372e0a025fe8f135c220ca0ca3.pdf
 https://gate.ac.uk/sale/lrec2014/arcomem/sarcasm.pdf
-https://techxplore.com/news/2016-08-deep-neural-network-approach-sarcasm.html
+https://arxiv.org/pdf/1607.00976.pdf
