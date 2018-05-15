@@ -24,7 +24,9 @@ Sarcasm is definitely on the farther end of difficulty when it comes to human ex
 
 Both problems are a "Classification" problem. When given a piece of text as input, we want to guess if it is of sarcastic or humorous quality. 
 
-## Rule Based
+## Methods
+
+### Rule Based
 Rule-based approaches attempt to identify sarcasm through specific evidences. These
 evidences are captured in terms of rules that rely on indicators of sarcasm. They  use  Google  search  in  order  to  determine  how  likely  a
 simile is. They present a 9-step approach where at each step/rule, a simile is validated
@@ -39,11 +41,11 @@ ation algorithm that creates parse trees of sentences and identifies situation p
 that bear sentiment. If a negative phrase occurs in a positive sentence, it is predicted
 as sarcastic. 
 
-## Statistical
+### Statistical
 A variety of classifiers have been experimented for sarcasm
 detection. Most work in sarcasm detection relies on SVM, with sequential minimal optimization and linear regression. Other approaches include using Chi-squared for identifying discriminating features, or Naive-Bayes combined with SVM for labeling features. 
 
-## Machine Learning
+### Machine Learning
 similarity between word embeddings as features for sarcasm detection.
 They augment features based on similarity of word embeddings related to most con-
 gruent and incongruent word pairs, and report an improvement in performance. The
@@ -71,7 +73,7 @@ we will see, this context may be incorporated in a variety of ways - in general,
 supplementary data or using supplementary information from the source platform of
 the data.
 
-## Future & Issues
+# Issues
 Sarcasm and humor detection suffors from 3 main problems: data, feature, and classification.
 Although hashtag-based labeling can provide large-scale supervision, the quality of the
 dataset may become doubtful. This is particularly true in case of use of #not to indicate
@@ -94,6 +96,30 @@ approaches require ‘surface polarity’  the apparent polarity of a sentence
 
 Sarcasm is an infrequent phenomenon of sentiment expression. This skew also reflects
 in datasets.
+
+# Future
+
+
+## Coverage of different forms of sarcasm
+ we described four species
+of sarcasm: propositional, lexical, like-prefixed and illocutionary sarcasm. We ob-
+serve that current approaches are limited in handling the last two forms of sar-
+casm:  like-prefixed  and  illocutionary.  Future  work  may  focus  on  these  forms  of
+sarcasm.
+
+## Culture-specific aspects of sarcasm detection
+sarcasm is closely related to language/culture-specific traits. Future approaches to
+sarcasm detection in new languages will benefit from understanding such traits,
+and  incorporating  them  into  their  classification  frameworks. 
+show that American and Indian annotators may have substantial disagreement in
+their sarcasm annotations - however, this sees a non-significant degradation in the
+performance of sarcasm detection
+
+## Deep learning-based architectures
+Very few approaches have explored deep
+learning-based architectures so far. Future work that uses these architecture may
+show promise.
+
 
 Humor & Sarcasm Detection
 https://arxiv.org/pdf/1602.03426.pdf
