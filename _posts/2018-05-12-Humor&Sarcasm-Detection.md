@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Humor and Sarcasm Detection
+title: Sarcasm Detection
 excerpt_separator:  <!--more-->
 ---
-
-# Humor and Sarcasm Detection
 
 ## Sarcasm?
 
