@@ -4,15 +4,16 @@ title: Acoustic Signal Processing
 excerpt_separator:  <!--more-->
 ---
 
-# Acoustic Signal Processing
 
-## Signal Processing: Introduction
+# Signal Processing: Introduction
 
 Signal processing refers to the acquisition, storage, display, and generation of signals – also to the extraction of information from signals and the re-encoding of information. As such, signal processing in some form is an essential element in the practice of all aspects of acoustics. Signal processing algorithms enable acousticians to separate signals from noise, to perform automatic speech recognition, or to compress information for more efficient storage or transmission. 
 
 ### Acoustics? Digital?
 
-Acoustics, or Audio signal processing, is intentional alteration of audio signals, electronically represented as a digital/analog form that can later be processed as signals. Before digital technology came along, analog (read continuous) signals were commonly used, in things like radio broadcasting and such. However, as times changed, and computers/software more affordable, digital signals were preferred. Basic applications include: efficient storage, compression, transmission, enhancement. However, recent introduction of Neural Networks, Statistical Vector Machines, and Other statistical approaches have led to more interesting aspects of application. Areas of music, speech, and environmental sounds have become the hottest topics to date. 
+Acoustics, or Audio signal processing, is intentional alteration of audio signals, electronically represented as a digital/analog form that can later be processed as signals. Before digital technology came along, analog (read continuous) signals were commonly used, in things like radio broadcasting and such. 
+
+However, as times changed, and computers/software more affordable, digital signals were preferred. Basic applications include: efficient storage, compression, transmission, enhancement. However, recent introduction of Neural Networks, Statistical Vector Machines, and other statistical approaches have led to more interesting aspects of application. Areas of music, speech, and environmental sounds have become the hottest topics to date. 
 
 ## Applications
 
@@ -22,6 +23,7 @@ A common approach to solve an audio classification task is to pre-process the au
 
 
 The aim of audio fingerprinting is to determine the digital “summary” of the audio. This is done to identify the audio from an audio sample. Shazam is an excellent example of an application of audio fingerprinting. It recognises the music on the basis of the first two to five seconds of a song. However, there are still situations where the system fails, especially where there is a high amount of background noise.
+
 To solve this problem, an approach could be to represent the audio in a different manner, so that it is easily deciphered. Then, we can find out the patterns that differentiate the audio from the background noise. In the case study below, the author converts raw audio to spectrograms and then uses peak finding and fingerprint hashing algorithms to define the fingerprints of that audio file.
 
 
