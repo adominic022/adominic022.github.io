@@ -64,9 +64,9 @@ For example,
  
 
 The speaker expresses sarcasm through #not. In most reported works that use hashtag-based supervision, the hashtag is removed in the pre-processing step. This reduces the sentence above to 
-’I love bland food’ - which may not have a sarcastic interpretation, unless author’s context is incorporated
+’I love bland food’ - which may not have a sarcastic interpretation, unless author’s context is incorporated.
 
-One question that many papers deliberate is if sentiment can be used as a feature for sarcasm detection. The motivation behind sarcasm detection is often pointed as sarcastic sentences misleading a sentiment classifier. However, several approaches use sentiment as an input to the sarcasm classifier. It must, however, be noted that these approaches require ‘surface polarity’  the apparent polarity of a sentence
+Another feature that is often an issue is the question that can sentiment be used to detect sarcasm. The motivation behind sarcasm detection is often pointed as sarcastic sentences misleading a sentiment classifier. However, several approaches use sentiment as an input to the sarcasm classifier. It must, however, be noted that these approaches require the sentiment polarity of a sentence.
 
 Sarcasm is an infrequent phenomenon of sentiment expression. This skew also reflects in datasets.
 
