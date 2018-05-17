@@ -13,12 +13,11 @@ Signal processing refers to the acquisition, storage, display, and generation of
 
 ### Acoustics? Digital?
 
-Acoustics, or Audio signal processing, is intentional alteration of audio signals, electronically represented as a digital/analog form that can later be processed as signals. Before digital technology came along, analog (read continuous) signals were commonly used, in things like radio broadcasting and such. 
+Acoustics, or Audio signal processing, is intentional alteration of audio signals, electronically represented as a digital/analog form that can later be processed as signals. Before digital technology came along, analog (read continuous) signals were commonly used, in things like radio broadcasting and such. These were derived from control systems back in the 1940s and 50s. 
 
 However, as times changed, and computers/software more affordable, digital signals were preferred. Basic applications include: efficient storage, compression, transmission, enhancement. However, recent introduction of Neural Networks, Statistical Vector Machines, and other statistical approaches have led to more interesting aspects of application. Areas of music, speech, and environmental sounds have become the hottest topics to date. 
 
 ## Applications
-
 
 #### Classification
 
@@ -38,27 +37,22 @@ To solve this problem, an approach could be to represent the audio in a differen
 Music Transcription is another challenging audio processing task. It comprises of annotating audio and creating a kind of “sheet” for generating music from it at a later point of time. The manual effort involved in transcribing music from recordings can be vast. It varies enormously depending on the complexity of the music, how good our listening skills are and how detailed we want our transcription to be.
 The approach for music transcription is similar to that of speech recognition, where musical notes are transcribed into lyrical excerpts of instruments.
 
+
+## Related Companies
+
+Audio Signal processing, as part of signal processing, is essential in numerous technology, and is much common in technology today. Most of the applications are hybrids, as in they are a used in a combination with another technology as a product. An easy example would be any application that uses voice recognition software, such as Baidu, Google's Duplex, Cortana, Alexa, etc.
+
+
+### Related Patents
+https://patents.google.com/patent/US9275648B2/en
+
 ### References
-http://www.antiquark.com/thesis/msc-thesis-derek-ross-v5c.pdf
-https://www.coursera.org/learn/audio-signal-processing
-http://webhome.csc.uvic.ca/~gtzan/output/
-https://www.youtube.com/watch?v=cd2Jfi0PE2Y
-https://link.springer.com/article/10.1007%2Fs10462-012-9362-y
 
-1.개념과 정의
+Derek J. Ross, Bird Call Recognition with Artificial Neural Networks, Support Vector Machines, and Kernel Density Estimation. (Winnipeg, Canada, 2006). http://www.antiquark.com/thesis/msc-thesis-derek-ross-v5c.pdf
 
-2.핵심내용
+"Audio Signal Processing for Music Applications." Coursera. Accessed May 17, 2018. https://www.coursera.org/learn/audio-signal-processing.
 
-3.연구분야
+Tzanetakis, George. "George Tzanetakis." UVic Learn to Code. Accessed May 17, 2018. http://webhome.csc.uvic.ca/~gtzan/output/.
 
-4.활용사례
+Duan, Shufei, Jinglan Zhang, Paul Roe, and Michael Towsey. "A Survey of Tagging Techniques for Music, Speech and Environmental Sound." SpringerLink. October 25, 2012. Accessed May 17, 2018. https://link.springer.com/article/10.1007/s10462-012-9362-y.
 
-5.과거에서 현재까지의 히스토리
-
-6.앞으로 발전방향
-
-7.관련업무 회사명 리스트(2개)
-
-8.관련특허 링크
-
-9. 참고자료 링크

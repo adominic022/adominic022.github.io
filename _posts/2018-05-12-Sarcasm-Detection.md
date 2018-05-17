@@ -84,11 +84,20 @@ performance of sarcasm detection
 ### Deep learning-based architectures
 Very few approaches have explored deep learning-based architectures so far. Future work that uses these architecture may show promise.
 
-Sarcasm Detection
-https://arxiv.org/pdf/1602.03426.pdf
-http://aclweb.org/anthology/D17-1051
-https://www.researchgate.net/figure/Architecture-of-our-sarcasm-detection-approach_fig2_280997051
-https://qz.com/801813/teaching-ai-how-to-be-sarcastic-is-totally-the-easiest-thing-ever/
-https://pdfs.semanticscholar.org/f1a1/949aab6d40372e0a025fe8f135c220ca0ca3.pdf
-https://gate.ac.uk/sale/lrec2014/arcomem/sarcasm.pdf
-https://arxiv.org/pdf/1607.00976.pdf
+## Related Companies
+Twitter is an obvious candidate, as are any other huge big data companies. Applications of Sarcasm Detection include: Sentiment analysis, opinion mining, and advertisement. 
+
+### Related patents
+https://patents.google.com/patent/US6638217B1/en
+
+### Reference
+Aditya Joshi, Pushpak Bhattacharya, Mark J Carman. "Automatic Sarcasm Detection: A Survey." IITB-Monash Research Academy, Indian Institute of Technology Bombay, Monash University. 20 Sep 2016. https://arxiv.org/pdf/1602.03426.pdf
+
+Commentary. "Teaching AI How to Be Sarcastic Is Totally the Easiest Thing Ever." Quartz. October 06, 2016. Accessed May 17, 2018. https://qz.com/801813/teaching-ai-how-to-be-sarcastic-is-totally-the-easiest-thing-ever/.
+
+Komalpreet Kaur Bindra, Ankita Gupta. "Tweet Sarcasm: Mechanism of Sarcasm Detection in Twitter" PEC University of Technology, Chandigarh, India. https://pdfs.semanticscholar.org/f1a1/949aab6d40372e0a025fe8f135c220ca0ca3.pdf
+
+Diana Mayndard, Mark A. Greenwood. "Who cares about sarcastic tweets? Investigating the impact of sarcasm onsentiment analysis" University of Sheffield.  https://gate.ac.uk/sale/lrec2014/arcomem/sarcasm.pdf
+
+Silvio Amir, Byron C. Wallace, Hao Lyu, Paula Carvalho, Mario J. Silva. "Modelling Context with User Embeddings for Sarcasm Detection in Social Media" INESC-ID Lisboa, Instituto Superior Tecnico, Universidade de Lisboa iSchool, University of Texas at Austin. 5 Jul 2016https://arxiv.org/pdf/1607.00976.pdf
+
