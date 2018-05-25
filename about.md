@@ -4,6 +4,8 @@ title: About
 sidebar_link: true
 ---
 
+![placeholder](https://dksehdals216.github.io/assets/images/rubber_duck.jpg)
+
 Hello!
 
 I'm Dongmin An, an undergrad student from South Korea.
