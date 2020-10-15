@@ -1,12 +1,18 @@
 ---
 layout: category
-title: CheatSheets
+title: Resources & CheatSheets
 ---
 
-This is my cheatsheet for doing stuff on linux and etc. 
-
+This is a quick & dirty cheatsheet for me and others
 
 ---
+
+# Linux 
+<br />
+<br />
+
+## Terminal
+
 ### grep
 **_lets you search files for text_**
 

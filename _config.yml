@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            The Rubber Duck 
 tagline:          'Just Another Blog'
-description:      'I''m Dongmin An, future software dev from Korea'
+description:      'Coding for Owls and other Nocturnal creatures'
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -13,7 +13,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 owner:
-  name:           'Dongmin An'
+  name:           'Simon An'
 
 
 author:
