@@ -1,19 +1,19 @@
 ---
 layout: category
-title: Resources & CheatSheets
+title: CheatSheets
 ---
 
 This is a quick & dirty cheatsheet for me and others
 
 ---
 
-# Linux 
-<br />
-<br />
 
 ## Terminal
 
-### grep
+
+### vim configuration
+
+### grep & sed & awk
 **_lets you search files for text_**
 
 ex:

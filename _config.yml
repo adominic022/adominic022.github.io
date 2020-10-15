@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            The Rubber Duck 
-tagline:          'Just Another Blog'
+title:            The Nightly Coder 
+tagline:          'for the nightly '
 description:      'Coding for Owls and other Nocturnal creatures'
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

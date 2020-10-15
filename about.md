@@ -28,7 +28,35 @@ a reference to the rubber duck debugging, a method of debugging code.
 It's a method where you basically carry around a rubber duck and force yourself
 to explain your code line by line, of course, to the duck. 
 To be frank, grinding Valgrind, probing the numerous options on VS, wrestling
-with grep/sed/awk on the terminal, this is going to be an endless journey. 
+with grep/sed/awk on the terminal, turns out its one hell of a speech.
+But it's always enough to keep me up all night, right? 
+<br /><br />
+
+
+## Experiences 
+### Languages & Projects:
+- Python 
+    - Pytorch & ML
+    - Web Scrapping, Desktop Apps
+    - Data Science/Visualization 
+- C, C++
+    - Embedded Apps
+    - CUDA computing
+- Rust
+    - Personal Projects
+- Haskell
+    - Personal Projects
+    - Studying Functional Programming
+- Typescript/Express/NodeJS + (JS/HTML/CSS)
+    - Electron: Desktop Apps
+    - Flutter: Web/Mobile Apps
+
+### my favorite Tools:
+- Vim + terminal
+- GitBash + VSCode
+- Github
+
+
 
 
 
