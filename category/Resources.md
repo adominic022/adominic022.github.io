@@ -104,5 +104,23 @@ sudo systemctl --failed
     - Fragments (BitTorrent Client)
     - Gnome Boxes vs VirtualBox
     - Stacer
-    
+
+
+# Windows
+
+## GitBash
+
+- Pip
+- Ruby on Rails & Bundle
+- NodeJS
+
+
+
+
+
+# Other
+
+## Portfolio
+- Jekyll & Hyde + Github.io
+- [developerFolio](https://github.com/saadpasta/developerFolio)
 
