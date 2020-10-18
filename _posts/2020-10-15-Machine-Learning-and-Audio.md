@@ -28,6 +28,11 @@ Deep Learning (for Audio) with Python
 https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
 
 
+https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc
+
+https://github.com/RobRomijnders/cnn_music
+
+
 Fields:
 
 1. Audio Classification
