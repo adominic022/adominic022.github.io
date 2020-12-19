@@ -10,7 +10,7 @@ sidebar_link: true
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Simon, from Korea. Open-minded and getting the better out of my curiosity<br />
-is what I'm all about. I like Computers! (well, kind of). Software Mostly. The 
+is what I'm all about. I like Computers! (well, kind of) Software Mostly. The 
 part where I'm done and get to see the results. Honestly I have no idea what 
 to write in a blog introduction, but hopefully this is fine. 
 

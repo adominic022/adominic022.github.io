@@ -8,6 +8,11 @@ title: Resources
 
 # Machine Learning:
 
+
+### Tools:
+- Tensorflow: [https://www.tensorflow.org/](https://www.tensorflow.org/)
+- Pytorch: [https://pytorch.org/](https://pytorch.org/)
+
 ### Getting started:
 
 - A great paper by Alex Graves:
@@ -19,10 +24,6 @@ title: Resources
     - [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - Colah's Blog:
     - [https://colah.github.io/](https://colah.github.io/)
-
-### Tools:
-- Tensorflow: [https://www.tensorflow.org/](https://www.tensorflow.org/)
-- Pytorch: [https://pytorch.org/](https://pytorch.org/)
 
 ### Architectures:
 
@@ -99,7 +100,7 @@ sudo systemctl --failed
 
 - Other Ideas:
     - Nautilus & other Archive Managers
-    - Sublime Text & VSCode
+    - [Sublime Text](https://sublimetext.com)& [VSCode](https://code.visualstudio.com)
     - Liferea
     - Fragments (BitTorrent Client)
     - Gnome Boxes vs VirtualBox
